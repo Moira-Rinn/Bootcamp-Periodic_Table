@@ -22,6 +22,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 88%;
+  max-width: 1125px;
   background-color: #121212;
   border: 2px solid #eee;
   padding: 40px;
